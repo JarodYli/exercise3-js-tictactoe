@@ -1,0 +1,24 @@
+
+.tileRow {
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+}
+
+.tileCol {
+    border-left:2px solid black;
+    border-right:2px solid black;
+    height:50vh;
+}
+
+.tileColEmpty { 
+    background-color: white;
+}
+
+.tileColX {
+    background-color: yellow;
+
+}
+
+.tileColO {
+    background-color: red;
+}
